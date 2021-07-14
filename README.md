@@ -1,10 +1,14 @@
 # 2020-MCM-C
 
-该解决方案获得2020年MCM-C题目的M奖
+**该解决方案获得2020年MCM-C题目的M奖**
 
-详细解决方案见文件All_Solution.ipynb
+1. 本项目是基于python3.6以及相关机器学习库、自然语言处理库和可视化python库等
 
-部分结果可视化图如下：
+2. 如使用anaconda，可以使用文件environment.yaml导入环境，否则详细环境配置见文件requirements.txt
+
+3. 详细解决方案见文件All_Solution.ipynb
+
+4. 部分结果可视化图如下：
 
 ![Image text](imgs/1.png)
 
