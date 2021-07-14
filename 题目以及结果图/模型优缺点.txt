@@ -1,0 +1,13 @@
+Strengths:
+1.Low Memory and Evaluation Complexity: We use pre-train model and only using the higher CPS can stand for the better prospect.
+2.Run Fast and Deploy Easy: We run as the speed of the traditional machine learning the Deep Learning Model and programs are easy.
+3.High Generalizability: We use three metircs to evaluate the model and we build the model in three datasets.
+4. High Accuracy and Adaptive Prediction:We use word-vector and  deep-network,what is more,we train the model with a lot data.
+5.Quantified and Rational Goals:We set quantified goals based on text-analysis.
+
+
+
+Weakness:
+No Verification of Raw Data:We have no guarantee of the accuracy of  given data.
+No Complex Time Series:Our time-series only predict in short time .
+No Cosideration of product Brand:We have not many the models about different brand product.
