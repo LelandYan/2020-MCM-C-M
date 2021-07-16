@@ -8,7 +8,9 @@
 
 3. 详细解决方案见文件All_Solution.ipynb
 
-4. 部分结果可视化图如下：
+4. 最后提交论文见文件 Final-paper.pdf
+
+5. 部分结果可视化图如下：
 
 ![Image text](imgs/1.png)
 
